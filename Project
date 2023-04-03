@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="table.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>TABLE</title>
+  
+</head>
+
+<body>
+<h1>Promotion Plans</h1>
+  <table>
+    <tr>
+      <th class="w"> COMPARE ALL PLANS</th>
+      <th class="y"> STARTER </th>
+      <th class="r"> ADVANCE </th>
+      <th class="c"> ENTERPRISE </th>
+
+    </tr>
+    <tr>
+      <td class="k">1st Month Managment Cost</td>
+      <td>$ 400</td>
+      <td>$ 900</td>
+      <td>$ 1200</td>
+    </tr>
+    <tr>
+      <td class="k">Following Month</td>
+      <td id="t">$ 300</td>
+      <td id="g">$ 700</td>
+      <td id="v">$ 900</td>
+    </tr>
+    <tr>
+      <td class="k">Delivery Time Frame</td>
+      <td>3-6 Months</td>
+      <td>3-6 Months</td>
+      <td>3-6 Months</td>
+    </tr>
+    <tr>
+      <td class="k" >Support 24/7</td>
+      <td>-</td>
+      <td> <FontAwesomeIcon icon="fa-sharp fa-solid fa-check" /></td>
+      <td> <FontAwesomeIcon icon="fa-sharp fa-solid fa-check" /></td>
+    </tr>
+    <tr>
+      <td class="k">Certificate</td>
+      <td>-</td>
+      <td><FontAwesomeIcon icon="fa-sharp fa-solid fa-check" /></td>
+      <td><FontAwesomeIcon icon="fa-sharp fa-solid fa-check" /></td>
+    </tr>
+    <tr>
+      <td class="k">Guaranteed Keywords Ranking In Firts Page Of Google</td>
+      <td>18</td>
+      <td>20</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="i"><button>BUY NOW</button></td>
+      <td class="i"><button>BUY NOW</button></td>
+      <td class="i"><button>BUY NOW</button></td>
+    </tr>
+
+
+
+
+  </table>
+
+<button >Ligsssss</button>
+
+</body>
+<style>
+.i{
+background-color: rgb(148, 148, 148);
+border-radius: 10%;
+}
+</style>
+</html>
